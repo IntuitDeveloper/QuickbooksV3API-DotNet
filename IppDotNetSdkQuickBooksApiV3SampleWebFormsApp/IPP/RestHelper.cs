@@ -103,7 +103,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp
                 var consumerSecret = ConfigurationManager.AppSettings["consumerSecret"].ToString();
                 return consumerKey.Length > 0 && consumerSecret.Length > 0;
             }
-            catch (Exception ex) { return false; }
+            catch { return false; }
         }
     }
 }

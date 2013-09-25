@@ -21,7 +21,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp
                 customersView.DataSource = RestHelper.getCustomerList(RestProfile.GetRestProfile());
                 customersView.DataBind();
             }
-            catch (Exception ex)
+            catch
             {
             }
         }

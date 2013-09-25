@@ -21,7 +21,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp
             {
                 RestHelper.disconnectRealm(RestProfile.GetRestProfile());
             }
-            catch (Exception ex)
+            catch
             {
 
             }

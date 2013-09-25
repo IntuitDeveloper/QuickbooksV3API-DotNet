@@ -48,7 +48,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp.OAuth
                     profile.OAuthAccessTokenSecret = accessToken.TokenSecret;
                     profile.Save();
                 }
-                catch (Exception ex)
+                catch
                 {
 
                 }
