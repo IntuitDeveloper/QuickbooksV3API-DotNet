@@ -48,40 +48,40 @@
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Intuit.Ipp.Core">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Core.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Core.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.Data">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Data.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Data.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.DataService">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.DataService.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.DataService.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.Diagnostics">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Diagnostics.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Diagnostics.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.Exception">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Exception.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Exception.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.LinqExtender">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.LinqExtender.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.LinqExtender.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.PlatformService">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.PlatformService.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.PlatformService.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.QueryFilter">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.QueryFilter.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.QueryFilter.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.ReportService">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.ReportService.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.ReportService.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.Retry">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Retry.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Retry.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.Security">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Security.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Security.dll</HintPath>
     </Reference>
     <Reference Include="Intuit.Ipp.Utility">
-      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.0.5\lib\Intuit.Ipp.Utility.dll</HintPath>
+      <HintPath>..\packages\IppDotNetSdkForQuickBooksApiV3.2.1.0\lib\Intuit.Ipp.Utility.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Newtonsoft.Json">
