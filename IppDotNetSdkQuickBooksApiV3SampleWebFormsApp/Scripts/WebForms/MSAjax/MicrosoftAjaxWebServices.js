@@ -1,4 +1,4 @@
-﻿//CdnPath=http://ajax.aspnetcdn.com/ajax/4.5/6/MicrosoftAjaxWebServices.js
+//CdnPath=http://ajax.aspnetcdn.com/ajax/4.5.1/1/MicrosoftAjaxWebServices.js
 //----------------------------------------------------------
 // Copyright (C) Microsoft Corporation. All rights reserved.
 //----------------------------------------------------------
