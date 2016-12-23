@@ -26,7 +26,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp.OAuth
                 switch (Request.QueryString["dataSource"].ToString().ToLower())
                 {
                     case "qbo": profile.DataSource = (int)IntuitServicesType.QBO; break;
-                    case "qbd": profile.DataSource = (int)IntuitServicesType.QBD; break;
+    
                 }
 
                 OAuthConsumerContext consumerContext = new OAuthConsumerContext

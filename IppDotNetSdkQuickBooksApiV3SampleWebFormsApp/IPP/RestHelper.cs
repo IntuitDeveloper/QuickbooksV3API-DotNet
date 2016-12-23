@@ -92,7 +92,8 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp
         {
             ServiceContext serviceContext = getServiceContext(profile);
             QueryService<Customer> customerQueryService = new QueryService<Customer>(serviceContext);
-            return customerQueryService.Select(c => c).ToList();
+            return customerQueryService.ExecuteIdsQuery("SELECT * FROM Customer").ToList<Customer>();
+     
         }
 
         public static bool appTokensSet()
