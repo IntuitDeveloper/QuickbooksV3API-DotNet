@@ -1,7 +1,7 @@
 Quickbooks API V3 - ASP.NET Web Forms Sample App (C#)
 ======================
 
-**Binaries:** [![Nuget]("https://img.shields.io/badge/Nuget-2.9.0-blue.svg")]
+**Binaries:** [![Nuget](https://img.shields.io/badge/Nuget-2.9.0-blue.svg)]
 
 This .NET sample app demonstrates an integration with the [QuickBooks API v3](https://developer.intuit.com/docs/0025_quickbooksapi/0050_data_services/v3).  This app supports Intuit's OpenID for creating and authorizing a user to log in, as well as OAuth for authorizing a connection to a QuickBooks company file (realm).  Subscriptions from Intuit's App Center can be tested using the settings below, as well as in-app connections to QuickBooks.
 
