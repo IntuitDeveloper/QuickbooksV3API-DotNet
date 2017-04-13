@@ -54,12 +54,9 @@
                 <h3>Data Source</h3>
             </header>
             <p>
-                Choose QuickBooks Online, QuickBooks Desktop or both.
-            </p>
+                Choose QuickBooks Online.</p>
         </section>
-        <p style="padding-top: 20px">
-            <img src="Images/AppDetails.PNG" />
-        </p>
+       
     </article>
     <aside>
         <h3>Help</h3>
