@@ -35,7 +35,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp
             /// Authorize url.
             /// </summary>
             public static string AuthorizeUrl = ConfigurationManager.AppSettings["Intuit_Workplace_AuthorizeUrl"] != null ?
-                ConfigurationManager.AppSettings["Intuit_Workplace_AuthorizeUrl"].ToString() : "https://workplace.intuit.com/Connect/Begin";
+                ConfigurationManager.AppSettings["Intuit_Workplace_AuthorizeUrl"].ToString() : "https://appcenter.intuit.com/Connect/Begin";
         }
 
         /// <summary>
@@ -47,7 +47,7 @@ namespace IppDotNetSdkQuickBooksApiV3SampleWebFormsApp
             /// BlueDot Menu Url.
             /// </summary>
             public static string BlueDotAppMenuUrl = ConfigurationManager.AppSettings["BlueDot_AppMenuUrl"] != null ?
-                ConfigurationManager.AppSettings["BlueDot_AppMenuUrl"].ToString() : "https://workplace.intuit.com/api/v1/Account/AppMenu";
+                ConfigurationManager.AppSettings["BlueDot_AppMenuUrl"].ToString() : "https://appcenter.intuit.com/api/v1/Account/AppMenu";
 
             /// <summary>
             /// Disconnect url.
