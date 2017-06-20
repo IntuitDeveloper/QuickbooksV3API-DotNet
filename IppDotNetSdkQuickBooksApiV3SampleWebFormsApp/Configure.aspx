@@ -22,7 +22,7 @@
                 <h3>App URL</h3>
             </header>
             <p>
-                http://localhost:62288/OpenID/Connect.aspx
+                https://localhost:62288/OpenID/Connect.aspx
             </p>
         </section>
         <section class="contact">
@@ -30,7 +30,7 @@
                 <h3>Disconnect Landing URL</h3>
             </header>
             <p>
-                http://localhost:62288/OpenID/Connect.aspx?Disconnect=true
+                https://localhost:62288/OpenID/Connect.aspx?Disconnect=true
             </p>
         </section>
         <section class="contact">
@@ -38,7 +38,7 @@
                 <h3>Manage Users URL</h3>
             </header>
             <p>
-                http://localhost:62288/OpenID/Connect.aspx?Manage=true
+                https://localhost:62288/OpenID/Connect.aspx?Manage=true
             </p>
         </section>
         <section class="contact">
@@ -46,7 +46,7 @@
                 <h3>OpenID URL</h3>
             </header>
             <p>
-                http://localhost:62288/OpenID/Connect.aspx?Subscribe=true
+                https://localhost:62288/OpenID/Connect.aspx?Subscribe=true
             </p>
         </section>
         <section class="contact">
