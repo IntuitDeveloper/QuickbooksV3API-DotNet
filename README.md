@@ -22,7 +22,6 @@ With this sample app, you can
 * Create an account and sign in to the application
 * Authenticate and provision accounts with Single Sign-In feature using Open ID
 * Authorize access to QuickBooks Company Data using OAuth
-* Display the Intuit Blue Dot menu
 * Access QuickBooks data
 * Use Disconnect link to disconnect from QuickBooks
 * Use Intuit Logout feature to sign out of app and the Intuit App Center
@@ -42,5 +41,5 @@ For more information
 
 * [Visit](https://developer.intuit.com) developer.intuit.com to become an IPP Developer and read more about the APIs and SDKs
 * [View](https://developer.intuit.com/docs) our API documentation.
-* [Test](https://developer.intuit.com/apiexplorer?apiname=V2QBD) QuickbBooks API calls on the API Explorer.
+* [Test](https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO) QuickbBooks API calls on the API Explorer.
 * [Connect](https://developer.intuit.com/v2/help) with us and let us know if you have any questions, feedback or issues.
