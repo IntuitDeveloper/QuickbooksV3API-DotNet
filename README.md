@@ -1,3 +1,5 @@
+[![Sample Banner](views/Sample.png)][ss1]
+
 Quickbooks API V3 - ASP.NET Web Forms Sample App (C#)
 ======================
 
@@ -42,3 +44,5 @@ For more information
 * [View](https://developer.intuit.com/docs) our API documentation.
 * [Test](https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO) QuickbBooks API calls on the API Explorer.
 * [Connect](https://developer.intuit.com/v2/help) with us and let us know if you have any questions, feedback or issues.
+
+[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=QuickbooksV3API-DotNet
